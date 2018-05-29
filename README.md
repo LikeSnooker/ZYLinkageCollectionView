@@ -1,0 +1,2 @@
+# ZYLinkageCollectionView
+左边一个UITableView  右侧一个UICollectionView，这个两个View之间可以联动
